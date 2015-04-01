@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">TodoList</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title">Title</string>
+    <string name="time">Time</string>
+    <string name="venue">Venue</string>
+    <string name="desc">Description</string>
+    <string name="create">New table</string>
+    <string name="new_todo">new_todo</string>
+
+</resources>
